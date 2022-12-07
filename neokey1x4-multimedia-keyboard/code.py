@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: © 2022 Stacey Adams <stacey.belle.rose [AT] gmail [DOT] com>
+# SPDX-License-Identifier: MIT
+
 """
 Requires multiple libraries from the Adafruit CircuitPython Library Bundle.
 Download the bundle from circuitpython.org/libraries and copy the

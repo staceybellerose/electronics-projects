@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: © 2018 Kattni Rembor for Adafruit Industries
+# SPDX-FileCopyrightText: © 2022 Stacey Adams <stacey.belle.rose [AT] gmail [DOT] com>
+# SPDX-License-Identifier: MIT
+
 # Adafruit Rotary Trinkey Volume Control, NeoPixel Color Rotation,
 #   and Capacitive Touch Brightness Control
 #

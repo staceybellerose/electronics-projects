@@ -1,0 +1,10 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Electronics Projects Source Code
+Upstream-Contact: Stacey Adams <stacey.belle.rose [AT] gmail [DOT] com>
+Source: https://github.com/staceybellerose/electronics-projects
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...
